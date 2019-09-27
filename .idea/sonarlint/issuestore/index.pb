@@ -35,3 +35,13 @@ V
 &src/com/company/daLuong/MyThread2.java,b\d\bdaf969502fea95bdd76bc43054549d67e14469e
 W
 'src/com/company/daLuong/TestThread.java,8\b\8bb4d44955de538bd53f29ea18724e4db657d2f6
+]
+-src/com/company/kethua/AnimalServiceImpl.java,8\e\8efcf0ad12c176368a800e38602db5730b4f5d4e
+Q
+!src/com/company/dto/Employee.java,7\8\789988052a00b7149b3777b8d80e0415fb71fdb3
+M
+src/com/company/dto/Main.java,c\7\c78ff37dcc3dee76ea51ee7d14a6c5646623a7dc
+O
+src/com/company/dto/DiaChi.java,e\8\e8e4ccd48857d8c07c831f4426f7133762d4882a
+O
+src/com/company/regex/Main.java,2\8\2852720cc46b992a04068a81b6f820c53493b253
