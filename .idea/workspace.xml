@@ -2,122 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/regex/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/6884bd87bac5791143d2d1fdc7c4e66d84a259ed" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/6884bd87bac5791143d2d1fdc7c4e66d84a259ed" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/collectors/CollectorsEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/consumer/ConsumerAndThenExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/consumer/ConsumerExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/methodReference/DemoMethodReference1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/methodReference/DemoMethodReference2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/methodReference/DemoMethodReference3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/methodReference/DemoMethodReference4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/optional/OptionalExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/optional/OptionalExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/streamApi/ConvertFromStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/streamApi/ConvertToStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/streamApi/PrimitiveStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/streamApi/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/truutuong/FunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/truutuong/FunctionalInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/truutuong/FunctionalInterface3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/truutuong/FunctionalInterface4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/truutuong/MultiInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/com/company/regex/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/com/company/regex/Main.class" afterDir="false" />
     </list>
     <list id="b90ec033-f097-4a82-a623-97f2f0f95b22" name="nocommit" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02ec1598e2a9a3ecb8c3cad19ca5056eceee42cf" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02ec1598e2a9a3ecb8c3cad19ca5056eceee42cf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8bb4d44955de538bd53f29ea18724e4db657d2f6" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8bb4d44955de538bd53f29ea18724e4db657d2f6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdaf969502fea95bdd76bc43054549d67e14469e" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdaf969502fea95bdd76bc43054549d67e14469e" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02ec1598e2a9a3ecb8c3cad19ca5056eceee42cf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02ec1598e2a9a3ecb8c3cad19ca5056eceee42cf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17769aa505fc1b305c011207dbf90783b8dc2e15" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17769aa505fc1b305c011207dbf90783b8dc2e15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/2852720cc46b992a04068a81b6f820c53493b253" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/2852720cc46b992a04068a81b6f820c53493b253" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5ed495a5eb3c884bdfdc2d08384101395fbdfaec" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5ed495a5eb3c884bdfdc2d08384101395fbdfaec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/789988052a00b7149b3777b8d80e0415fb71fdb3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/789988052a00b7149b3777b8d80e0415fb71fdb3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Hello.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/exception/Hello.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="17" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/dto/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiaChi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/dto/DiaChi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/domain/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/domain/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="7" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Worker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/domain/Worker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/regex/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/dto/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/dto/SubClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -125,188 +47,82 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="4" end1="6" start2="4" end2="24" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="8" end1="13" start2="26" end2="32" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="14" end1="17" start2="33" end2="33" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="22" end1="117" start2="38" end2="38" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="120" end1="120" start2="41" end2="42" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="127" end1="191" start2="49" end2="103" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="192" end1="257" start2="104" end2="109" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="262" end1="262" start2="114" end2="117" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="268" end1="309" start2="123" end2="124" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="336" end1="347" start2="151" end2="165" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="348" end1="349" start2="166" end2="172" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="351" end1="351" start2="174" end2="249" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="352" end1="354" start2="250" end2="250" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="359" end1="364" start2="255" end2="255" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="366" end1="367" start2="257" end2="257" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="368" end1="376" start2="258" end2="261" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="378" end1="380" start2="263" end2="263" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="385" end1="392" start2="268" end2="268" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="394" end1="395" start2="270" end2="270" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="396" end1="406" start2="271" end2="271" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="408" end1="519" start2="273" end2="276" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="524" end1="524" start2="281" end2="282" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="527" end1="528" start2="285" end2="286" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="530" end1="537" start2="288" end2="288" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="539" end1="540" start2="290" end2="290" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="541" end1="549" start2="291" end2="294" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="550" end1="559" start2="295" end2="303" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="561" end1="562" start2="305" end2="305" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="564" end1="566" start2="307" end2="307" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="567" end1="589" start2="308" end2="308" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="590" end1="592" start2="309" end2="309" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="593" end1="602" start2="310" end2="311" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="609" end1="643" start2="318" end2="320" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="645" end1="647" start2="322" end2="323" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="648" end1="650" start2="324" end2="330" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="652" end1="653" start2="332" end2="332" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="654" end1="664" start2="333" end2="333" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="666" end1="667" start2="335" end2="338" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="668" end1="672" start2="339" end2="340" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="678" end1="679" start2="346" end2="347" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="680" end1="713" start2="348" end2="357" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="714" end1="716" start2="358" end2="360" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="736" end1="736" start2="380" end2="382" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="739" end1="784" start2="385" end2="385" changelist="b90ec033-f097-4a82-a623-97f2f0f95b22" />
+        <range start1="785" end1="789" start2="386" end2="387" changelist="b90ec033-f097-4a82-a623-97f2f0f95b22" />
+        <range start1="791" end1="793" start2="389" end2="423" changelist="5ae62e6d-e90c-46f7-a3a2-816cefcc14f9" />
+        <range start1="815" end1="816" start2="445" end2="445" changelist="b90ec033-f097-4a82-a623-97f2f0f95b22" />
+        <range start1="819" end1="820" start2="448" end2="448" changelist="b90ec033-f097-4a82-a623-97f2f0f95b22" />
+        <range start1="821" end1="822" start2="449" end2="449" changelist="b90ec033-f097-4a82-a623-97f2f0f95b22" />
+        <range start1="826" end1="1183" start2="453" end2="453" changelist="b90ec033-f097-4a82-a623-97f2f0f95b22" />
+      </ranges>
+    </file>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/vonglap/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/vonglap/PhepToanCongTru.java" />
-        <option value="$PROJECT_DIR$/src/com/company/doituong/Static.java" />
-        <option value="$PROJECT_DIR$/src/com/company/wrapper/Wrapper.java" />
-        <option value="$PROJECT_DIR$/src/com/company/wrapper/Math.java" />
-        <option value="$PROJECT_DIR$/src/com/company/wrapper/ToanHoc.java" />
-        <option value="$PROJECT_DIR$/src/com/company/outerclass/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/company/other/SubClass.java" />
-        <option value="$PROJECT_DIR$/src/com/company/outerclass/SubClass.java" />
-        <option value="$PROJECT_DIR$/src/com/company/dto/DiaChi.java" />
-        <option value="$PROJECT_DIR$/src/com/company/dto/Emloyee.java" />
-        <option value="$PROJECT_DIR$/src/com/company/dto/HasA.java" />
-        <option value="$PROJECT_DIR$/src/com/company/dto/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/company/other/SubClass2.java" />
-        <option value="$PROJECT_DIR$/src/com/company/dto/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/domain/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/company/domain/Worker.java" />
-        <option value="$PROJECT_DIR$/src/com/company/domain/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/company/domain/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/abstract/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/company/truutuong/AnimalService.java" />
-        <option value="$PROJECT_DIR$/src/com/company/truutuong/AnimalServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/company/dahinh/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/company/dahinh/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/company/dahinh/EmployeeCon.java" />
-        <option value="$PROJECT_DIR$/src/com/company/truutuong/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/company/kethua/PersonService.java" />
-        <option value="$PROJECT_DIR$/src/com/company/kethua/EmployeeService.java" />
-        <option value="$PROJECT_DIR$/src/com/company/kethua/EmployeeServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/company/dto/SubClass.java" />
-        <option value="$PROJECT_DIR$/src/com/company/innerClass/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/company/innerClassStatic/Animal.java" />
-        <option value="$PROJECT_DIR$/src/com/company/methodInnerClass/Emloyee.java" />
-        <option value="$PROJECT_DIR$/src/com/company/exception/Hello.java" />
-        <option value="$PROJECT_DIR$/src/com/company/throwException/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/company/throwException/MyException.java" />
-        <option value="$PROJECT_DIR$/src/com/company/throwException/Hello.java" />
-        <option value="$PROJECT_DIR$/src/com/company/daLuong/MyThread1.java" />
-        <option value="$PROJECT_DIR$/src/com/company/daLuong/MyThread2.java" />
-        <option value="$PROJECT_DIR$/src/com/company/daLuong/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/daLuong/TestThread.java" />
-        <option value="$PROJECT_DIR$/src/com/company/regex/Main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1932" />
-    <option name="height" value="1056" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="regex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1Yb96Q8uGaKj95DjIRxBXjVWAED" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.company.truutuong" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.CollectorsEx1">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -334,154 +150,6 @@
       </Profilers>
       <method />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
-      <method />
-    </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="" />
       <working_directory value="$PROJECT_DIR$" />
@@ -502,104 +170,131 @@
       <kind value="DIRECTORY" />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
+    <configuration default="true" type="heroku-deploy" factoryName="Heroku Deployment">
       <method />
+    </configuration>
+    <configuration name="CollectorsEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.collectors.CollectorsEx1" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.collectors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerAndThenExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.consumer.ConsumerAndThenExample" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.consumer.ConsumerExample1" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.regex.Main" />
+      <module name="JavaCore" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.optional.OptionalExample1" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.optional.OptionalExample2" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
-      <method />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaCore" />
-      <envs />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -607,113 +302,63 @@
       <option name="passParentEnvs" value="true" />
       <option name="workingDirectory" />
       <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list />
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
+      <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="heroku-deploy" factoryName="Heroku Deployment">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
-      <method />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.company.regex.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaCore" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CollectorsEx1" />
+        <item itemvalue="Application.OptionalExample2" />
+        <item itemvalue="Application.OptionalExample1" />
+        <item itemvalue="Application.ConsumerExample1" />
+        <item itemvalue="Application.ConsumerAndThenExample" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -734,6 +379,8 @@
       <workItem from="1569398502816" duration="3075000" />
       <workItem from="1569410013793" duration="816000" />
       <workItem from="1569551171278" duration="8000" />
+      <workItem from="1583200253908" duration="2602000" />
+      <workItem from="1583217948472" duration="15269000" />
     </task>
     <servers />
   </component>
@@ -789,8 +436,40 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="178" height="589" key="Git.Branch.Popup" />
-    <state width="178" height="589" key="Git.Branch.Popup/0.0.1366.768" />
+    <state x="621" y="117" width="677" height="806" key="CommitChangelistDialog2" timestamp="1583218161876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="621" y="117" width="677" height="806" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583218161876" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1583308807806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583308807806" />
+    <state width="178" height="589" key="Git.Branch.Popup" timestamp="1583217993262" />
+    <state width="178" height="589" key="Git.Branch.Popup/0.0.1366.768" timestamp="1583217993262" />
+    <state width="1860" height="422" key="GridCell.Tab.0.bottom" timestamp="1583308786009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="422" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583308786009" />
+    <state width="1860" height="422" key="GridCell.Tab.0.center" timestamp="1583308786009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="422" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583308786009" />
+    <state width="1860" height="422" key="GridCell.Tab.0.left" timestamp="1583308786009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="422" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583308786009" />
+    <state width="1860" height="422" key="GridCell.Tab.0.right" timestamp="1583308786009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="422" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583308786009" />
+    <state x="440" y="96" key="SettingsEditor" timestamp="1583218044340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="96" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583218044340" />
+    <state x="807" y="440" key="VCS.ChangelistChooser" timestamp="1583308798074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="440" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583308798074" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
